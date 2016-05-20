@@ -1,3 +1,6 @@
+# Please find live demo of this app at : biohr.heroku.com(biohr.heroku.com)
+# username : admin
+# password : admin
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
@@ -26,7 +29,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
-
-Please find live demo of this app at : biohr.heroku.com
-username : admin
-password : admin
