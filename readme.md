@@ -1,4 +1,4 @@
-Please find live demo of this app at : [biohr.heroku.com](https://biohr.heroku.com)
+Please find live demo of this app at : [biohr.heroku.com](http://biohr.heroku.com)
 * username : admin
 * password : admin
 # Laravel PHP Framework
