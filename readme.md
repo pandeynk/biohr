@@ -1,6 +1,6 @@
-# Please find live demo of this app at : biohr.heroku.com(biohr.heroku.com)
-# username : admin
-# password : admin
+Please find live demo of this app at : [biohr.heroku.com](biohr.heroku.com)
+* username : admin
+* password : admin
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
